@@ -1,10 +1,11 @@
 Mutating vs Non-mutating
 ========================
 - I like swift and python's "ed/ing"
+- Somehow suffix it with "InPlace" will make the intention much clearer but the a bit longer
 
 Example:
 --------
 1. sort(data) - mutating
 2. data = sorted(data) - non-mutating
-
+3. sortInPlace(data) - mutating
 
