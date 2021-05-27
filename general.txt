@@ -1,0 +1,10 @@
+Mutating vs Non-mutating
+========================
+- I like swift and python's "ed/ing"
+
+Example:
+--------
+1. sort(data) - mutating
+2. data = sorted(data) - non-mutating
+
+
